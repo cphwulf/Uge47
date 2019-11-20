@@ -7,7 +7,7 @@ Opgaven består i at komme frem til en et bud på hvor mange ord der indgår. Ma
 Man skal desuden lave en hashmap med ord som nøgle og frekvens som hyppighed. Det giver mere mening når sortering kommer med i slutningen af ugen. Man vil så kunne bygge mere meningsfulde sætninger ud fra hyppighed.
 
 2) NameFactory.Indlæs filen "Data/names.txt" i en arraylist, et hashset og en linked liste. 
-Mål køretiden på indlæsningen af de tre forskellige datastrukturer.
+Mål køretiden på indlæsningen af de tre forskellige datastrukturer (System.currentTimeMillis())
 3) NameFactory. Skriv en metode - searchForItem - hvor du kan søge efter et navn i alle tre lister (contains)
 4) NameFactory. Skriv din egen linkede liste (to klasser: MinLL og Node) og indlæs navnene i din egen liste.
 5) NameFactory. Implementer din egen contains-metode i MinLL. Den skal bare printe til konsollen når man rammer.
