@@ -1,7 +1,6 @@
 # Opgaver til uge 47 
-## Materialet er projekterne Week47, NameFactory og DogKennel. De har alle en branch der hedder noget med "task". 
-
-## Rækkefølgen 
+## Materialet er projekter på https://github.com/cphstud. De hedder Week47, NameFactory og DogKennel. De har alle en branch der hedder noget med "task".  Altså IKKE på cphwulf!
+## Rækkefølgen. De hedder 
 1) Week47 - task1. I mappen "Data" ligger en fil mobydick.txt. Den skal indlæses med metoden readWorsIntoList fra ReadWords-klassen.
 Man kan med fordel lave en lille testfil fra mobydick. Og eksekvere koden vha en testklasse. 
 Opgaven består i at komme frem til en et bud på hvor mange ord der indgår. Man kan forsøge at rense ordene for tegn så de kun indeholder bogstaver men da regulære udtryk ikke er en del af pensum er det ikke påkrævet. 
